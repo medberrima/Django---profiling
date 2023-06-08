@@ -1,0 +1,106 @@
+{
+    "Genre": {
+        "similarite": ["homme", "femme", "masculin", "féminin", "garçon", "fille"],
+        "synonymes": {
+            "masculin": ["garçon", "homme"],
+            "feminin": ["fille", "femme"]
+        }
+    },
+    "Club": {
+        "similarite": [],
+        "synonymes": {
+        }
+    },
+    "Age": {
+        "similarite": ["an"],
+        "synonymes": {}
+    },
+    "Situation familiale": {
+        "similarite": [],
+        "synonymes": {}
+    },
+    "Interactions en ligne": {
+        "similarite": ["facebook","instagram","tik tok","snapshat"],
+        "synonymes": {}
+    },
+    "Revenu": {
+        "similarite": ["dtn","mois"],
+        "synonymes": {}
+    },
+    "Niveau d'études": {
+        "similarite": [],
+        "synonymes": {}
+    },
+    "Permis de conduire": {
+        "similarite": ["permis","conduire"],
+        "synonymes": {}
+    },
+    "Motorisé": {
+        "similarite": ["motorisé?"],
+        "synonymes": {}
+    },
+
+    "Langues": {
+        "similarite": ["français", "anglais", "arabe"],
+        "synonymes": {
+            "fr": ["français", "french"],
+            "eng": ["anglais", "english"],
+            "ar": ["arabic", "arabe"]
+        }
+    },
+    "Film": {
+        "similarite": ["science","fiction","horreur","action","comédie","tragédie","romantique","policier","film"],
+        "synonymes": {
+            "fiction": ["science","fiction"],
+            "horreur": ["horreur"],
+            "action": ["action"],
+            "comédie": ["comédie"],
+            "tragédie": ["tragédie"],
+            "romantique": ["romantique"],
+            "policier": ["policier"]
+        }
+    },
+    
+    "Zone géographique": {
+        "similarite": ["nabeul","jendouba","tunis","sousse","siliana","sfax","kairouan","gafsa","mahdia","kef","bizerte","gabes","medenine","zaghouan","sidi bouzid","tataouine","tozeur","ariana","ben arous","monastir","kasserine","manouba","beja"],
+        "synonymes": {
+            "na": ["nabeul", "nabeul"],
+            "je": ["jendouba", "jendouba"],
+            "tu": ["tunis", "tunis"],
+            "sou": ["sousse", "sousse"],
+            "sf": ["sfax", "sfax"],
+            "ka": ["kairouan", "kairouan"],
+            "gaf": ["gafsa", "gafsa"],
+            "ma": ["mahdia", "mahdia"],
+            "ke": ["kef", "kef"],
+            "biz": ["bizerte", "bizerte"],
+            "gab": ["gabes", "gabes"],
+            "med": ["medenine", "medenine"],
+            "zagh": ["zaghouan", "zaghouan"],
+            "sidi": ["sidi bouzid", "sidi bouzid"],
+            "ta": ["tataouine", "tataouine"],
+            "to": ["tozeur", "tozeur"],
+            "ar": ["ariana", "ariana"],
+            "ba": ["ben arous", "ben arous"],
+            "mon": ["monastir", "monastir"],
+            "kass": ["kasserine", "kasserine"],
+            "man": ["manouba", "manouba"],
+            "be": ["beja", "beja"]
+        }
+    },
+    "Occupation": {
+        "similarite": ["entrepreneur","recherche d'un emploi","lycée","l'université","salariée","collège","métier","occupation","job","place","travail","emploi","profession","tâche","fonction"],
+        "synonymes": {
+            "entr": ["entrepreneur"],
+            "rech": ["recherche d'un emploi"],
+            "ly": ["lycée"],
+            "univ": ["l'université"],
+            "sal": ["salariée"],
+            "co": ["collège"]
+         }
+    },
+    "Sport": {
+        "similarite": ["handball","football","volleyball","basketball","gymnastique","natation","tennis","golf","danse","activités sportives"],
+        "synonymes": {}
+    }
+}
